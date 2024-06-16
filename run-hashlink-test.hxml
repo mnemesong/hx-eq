@@ -1,0 +1,5 @@
+--library sure
+--class-path hx/src
+--class-path hx/test
+--main hxEqTest.EqTest
+--interp

@@ -1,0 +1,6 @@
+--library sure
+--class-path hx/src
+--class-path hx/test
+--main hxEqTest.EqTest
+-neko testout/test.n
+-cmd neko testout/test.n

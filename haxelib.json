@@ -1,0 +1,17 @@
+{
+    "name": "hx-eq",
+    "license": "MIT",
+    "tags": [
+        "hx-eq",
+        "hxEq"
+    ],
+    "description": "Deep equality checker, inspired by https://github.com/elnabo/equals/ , but corrected for new haxe versions",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/hx-eq/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/hx-eq",
+    "classPath": "hx/src",
+    "dependencies": {}
+}

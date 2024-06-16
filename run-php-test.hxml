@@ -1,0 +1,6 @@
+--library sure
+--class-path hx/src
+--class-path hx/test
+--main hxEqTest.EqTest
+-php testout/php
+-cmd php ./testout/php/index.php
